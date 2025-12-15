@@ -2,7 +2,6 @@ USE REDUCER
 - Manage complex state logic
 - Good alternative to useState when state has multiple updates
 
-
 import { useReducer } from "react";
 
 const initialState = { count: 0 };
